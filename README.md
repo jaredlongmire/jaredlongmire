@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jaredlongmire
-- 👀 I’m interested in application development, AI / Machine Leanring & Computing Research 
-- 🌱 I’m currently learning Python & SQL
+- 👀 I’m interested in Application Development, Cloud Computing, AI / Machine Leanring & Computing Research 
+- 🌱 I’m currently learning Python & SQL & Cloud Architecture 
 - 💞️ I’m looking to collaborate on AI / Machine Learning Projects
 - 📫 How to reach me jared.longmire@gmail.com
 
