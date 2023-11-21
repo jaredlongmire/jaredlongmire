@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @jaredlongmire
-- 👀 I’m interested in Application Development, Cloud Computing, AI / Machine Learning & Computing Research 
-- 🌱 I’m currently learning Python, SQL & Cloud Architecture 
-- 💞️ I’m looking to collaborate on AI / Machine Learning Projects & Cloud Computing Projects
+- 👀 I’m interested in AI & Machine Learning 
 - 📫 How to reach me: https://www.linkedin.com/in/jaredlongmire/ 
 
 <!---
