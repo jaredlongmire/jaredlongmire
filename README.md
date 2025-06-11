@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jaredlongmire
-- 👀 I’m interested in AI & Machine Learning 
+- 👀 I’m interested in Machine Learning & AI
 
 <!---
 jaredlongmire/jaredlongmire is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
